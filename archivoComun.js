@@ -1,4 +1,4 @@
-let dia = 'jueves'
+let dia = 'miercoles'
 function finDeSemana (dia) {
 switch (dia) {	
 	case 'sabado':
