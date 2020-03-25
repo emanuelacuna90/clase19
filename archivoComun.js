@@ -2,7 +2,7 @@ let dia = 'miercoles'
 function finDeSemana (dia) {
 switch (dia) {	
 	case 'viernes':
-    	console.log('buen finde');
+    	console.log('buen dia');
 	break;
 	case 'lunes':
     	console.log('buena semana');
