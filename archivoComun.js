@@ -8,6 +8,6 @@ switch (dia) {
     	console.log('buena semana');
 	break;
     	default:
-		 console.log('buen dia');
+		 console.log('Estamos en cuarentena!!! Quiero salir de mi CASA!!!');
 	}
 }
