@@ -5,7 +5,7 @@ switch (dia) {
     	console.log('buen dia');
 	break;
 	case 'lunes':
-    	console.log('buena semana');
+    	console.log('otro lunes más');
 	break;
     	default:
 		 console.log('Estamos en cuarentena!!! Quiero salir de mi CASA!!!');
